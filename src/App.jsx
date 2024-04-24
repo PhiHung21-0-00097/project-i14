@@ -16,10 +16,10 @@ function App() {
     <div className="App">
       <Loader />
       <div ref={contentRef} id="content">
-      <Nav />
-      <Jumbotron />
-      <SoundSection />
-      <DisplaySection triggerPreview={handlePreview} />
+        <Nav />
+        <Jumbotron />
+        <SoundSection />
+        <DisplaySection triggerPreview={handlePreview} />
       </div>
       <WebgiViewer contentRef={contentRef} ref={webgiviewerRef} />
     </div>
