@@ -16,7 +16,7 @@ function Jumbotron() {
       <h2 className="title">New</h2>
       <img className="logo" src={Iphone} alt="iphone 15 pro" />
       <p className="text">
-        Big and bigger <br /> Otis Nguyễn
+        Big and bigger <br /> Teacher So Cute
       </p>
       <span className="description">
         From $41.62/mo. for 24 mo. or $999 before trade-in
