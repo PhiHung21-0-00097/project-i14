@@ -13,7 +13,7 @@ function Jumbotron() {
   };
   return (
     <div className="jumbotron-section wrapper">
-      <h2 className="title">New</h2>
+      <h2 className="title">Otis</h2>
       <img className="logo" src={Iphone} alt="iphone 16 pro" />
       <p className="text">
         Big and bigger <br /> Cô giáo đầu đất
